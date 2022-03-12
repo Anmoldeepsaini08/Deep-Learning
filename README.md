@@ -1,5 +1,4 @@
 # Deep-Learning
-## Tensorflow
-## Keras
+## Tensorflow,Keras
 
 In this repository you will get custom build Neural Network from scratch.
